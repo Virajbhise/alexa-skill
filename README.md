@@ -1,2 +1,3 @@
 # alexa-skill
- i built an alexa skill with lambda function.
+ I've built an alexa skill using lambda function.
+ 
